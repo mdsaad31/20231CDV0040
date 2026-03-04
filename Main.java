@@ -7,6 +7,6 @@ public class Main {
         } else {
             System.out.println(number + " is odd");
         }
-        System.out.println("The Program Executed Successfully.");
+        System.out.println("This is the end of the program.");
     }
 }
